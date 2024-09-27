@@ -1,2 +1,5 @@
 optimisation/build
 .DS_Store
+optimisation/.vs
+optimisation/out
+*.user
